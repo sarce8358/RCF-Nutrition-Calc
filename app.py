@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 # Import local modules
-from data.food_database import food_database
-from utils.calculator import calculate_nutrients, calculate_points
-from utils.visualization import create_nutrition_chart
+from food_database import food_database
+from calculator import calculate_nutrients, calculate_points
+from visualization import create_nutrition_chart
 
 # Set page config
 st.set_page_config(page_title="NutriCalc - Nutrition Calculator",
