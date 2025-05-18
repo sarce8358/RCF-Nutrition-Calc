@@ -81,7 +81,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": .25,
-        "unit": " ",
+        "unit": "cantaloupe",
         "serving_points": 1
     },
     
@@ -93,7 +93,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": 7,
-        "unit": " ",
+        "unit": "cherries",
         "serving_points": 1
     },
 
@@ -117,7 +117,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": 1,
-        "unit": "(9in)",
+        "unit": "(9in) cucumber",
         "serving_points": 1
     },
 
@@ -129,7 +129,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": 2,
-        "unit": " ",
+        "unit": "dates",
         "serving_points": 1
     },
 
@@ -141,7 +141,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": .75,
-        "unit": " ",
+        "unit": "fig",
         "serving_points": 1
     },
 
@@ -165,7 +165,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": .5,
-        "unit": " ",
+        "unit": "grapefruit",
         "serving_points": 1
     },
 
@@ -189,7 +189,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": .5,
-        "unit": " ",
+        "unit": "honeydew",
         "serving_points": 1
     },
 
@@ -201,7 +201,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": 1,
-        "unit": " ",
+        "unit": "kiwi",
         "serving_points": 1
     },
 
@@ -213,7 +213,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": 3,
-        "unit": " ",
+        "unit": "kumquats",
         "serving_points": 1
     },
 
@@ -225,7 +225,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": 1,
-        "unit": " ",
+        "unit": "lemon",
         "serving_points": 1
     },
 
@@ -237,7 +237,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": 1,
-        "unit": " ",
+        "unit": "lime",
         "serving_points": 1
     },
 
@@ -249,7 +249,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": .5,
-        "unit": " ",
+        "unit": "nectarine",
         "serving_points": 1
     },
 
@@ -273,7 +273,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": .5,
-        "unit": " ",
+        "unit": "orange",
         "serving_points": 1
     },
 
@@ -297,7 +297,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": 1,
-        "unit": " ",
+        "unit": "peach",
         "serving_points": 1
     },
 
@@ -309,7 +309,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": .5,
-        "unit": " ",
+        "unit": "pear",
         "serving_points": 1
     },
 
@@ -333,7 +333,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": 1,
-        "unit": " ",
+        "unit": "plum",
         "serving_points": 1
     },
 
@@ -345,7 +345,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": 2,
-        "unit": " ",
+        "unit": "prunes",
         "serving_points": 1
     },
 
@@ -393,7 +393,7 @@ food_database = {
         "category": "carbs",
         "subcategory": "fruit",
         "serving_size": 1,
-        "unit": " ",
+        "unit": "tangerine",
         "serving_points": 1
     },
 
@@ -807,7 +807,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 1.25,
         "unit": "cup",
         "serving_points": 1
@@ -843,7 +843,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": .75,
         "unit": "cup",
         "serving_points": 1
@@ -855,7 +855,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 1.333,
         "unit": "cup",
         "serving_points": 1
@@ -867,7 +867,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 2.25,
         "unit": "cup",
         "serving_points": 1
@@ -879,7 +879,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 2,
         "unit": "cup",
         "serving_points": 1
@@ -891,7 +891,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 1.25,
         "unit": "cup",
         "serving_points": 1
@@ -903,9 +903,9 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 3,
-        "unit": "(3in)",
+        "unit": "(3in) pickles",
         "serving_points": 1
     },
 
@@ -915,7 +915,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 1.5,
         "unit": "cup",
         "serving_points": 1
@@ -927,7 +927,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 1.25,
         "unit": "cup",
         "serving_points": 1
@@ -939,7 +939,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 1,
         "unit": "cup",
         "serving_points": 1
@@ -951,7 +951,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 1,
         "unit": "head",
         "serving_points": 1
@@ -963,7 +963,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 6,
         "unit": "cup",
         "serving_points": 1
@@ -975,7 +975,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 3,
         "unit": "cup",
         "serving_points": 1
@@ -987,7 +987,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": .75,
         "unit": "cup",
         "serving_points": 1
@@ -999,7 +999,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": .5,
         "unit": "cup",
         "serving_points": 1
@@ -1011,7 +1011,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 1.25,
         "unit": "cup",
         "serving_points": 1
@@ -1023,7 +1023,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 2,
         "unit": "cup",
         "serving_points": 1
@@ -1035,7 +1035,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": .5,
         "unit": "cup",
         "serving_points": 1
@@ -1047,7 +1047,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 1,
         "unit": "cup",
         "serving_points": 1
@@ -1059,7 +1059,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": .75,
         "unit": "cup",
         "serving_points": 1
@@ -1071,7 +1071,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 1.333,
         "unit": "cup",
         "serving_points": 1
@@ -1083,7 +1083,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 4,
         "unit": "cup",
         "serving_points": 1
@@ -1095,7 +1095,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 1.25,
         "unit": "cup",
         "serving_points": 1
@@ -1107,7 +1107,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": .5,
         "unit": "cup",
         "serving_points": 1
@@ -1119,7 +1119,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": .75,
         "unit": "cup",
         "serving_points": 1
@@ -1131,7 +1131,7 @@ food_database = {
         #"carbs": 0.0,
         #"fat": 0.0,
         "category": "carbs",
-        "subcategory": "starchy",
+        "subcategory": "veggie",
         "serving_size": 1.333,
         "unit": "cup",
         "serving_points": 1
@@ -1249,8 +1249,370 @@ food_database = {
         "unit": "oz",
         "serving_points": 1
     },
+    
+    "Duck": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+    
+    "Ham": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1,
+        "unit": "oz",
+        "serving_points": 1
+    },
+    
+    "Lamb": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1,
+        "unit": "oz",
+        "serving_points": 1
+    },
 
-    "Egg": {
+    "Ground Lamb": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Pork": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Ground Pork": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+    
+    "Hot Dog": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1,
+        "unit": "link",
+        "serving_points": 1
+    },
+
+    "Sausage, pork": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 2,
+        "unit": "patties/links",
+        "serving_points": 1
+    },
+    "Pepperoni": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Salami": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Calamari": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Catfish": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Clams": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Crabmeat": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Cod": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Flounder/Sole": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Halibut": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Lobster": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Salmon": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Sardines": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Scallops": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Swordfish": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Shrimp": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Tuna Steak": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Canned Tuna": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Protein Powder": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 7,
+        "unit": "grams",
+        "serving_points": 1
+    },
+
+    "Seitan": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Soy Burgers": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 0.5,
+        "unit": "patty",
+        "serving_points": 1
+    },
+
+    "Soy Sausage": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 2,
+        "unit": "links",
+        "serving_points": 1
+    },
+
+    "Spirulina (dried)": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 0.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Soy Cheese": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Firm Tofu": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 2,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Soft Tofu": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 3,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Whole Egg": {
         #"calories": 0,
         #"protein": 0,
         #"carbs": 0.0,
@@ -1260,7 +1622,95 @@ food_database = {
         "unit": "large",
         "serving_points": 1
     },
-    
+
+    "Egg Whites": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 2,
+        "unit": "large",
+        "serving_points": 1
+    },
+
+    "Egg Substitute": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 0.25,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Cottage Cheese": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 0.25,
+        "unit": "cup",
+        "serving_points": 1
+    },
+
+    "Greek Yogurt (plain)": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 0.25,
+        "unit": "cup",
+        "serving_points": 1
+    },
+
+    "Cheese": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Feta Cheese": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1.5,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Mozzarella Cheese, skim": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 1,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
+    "Ricotta Cheese": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0.0,
+        #"fat": 0,
+        "category": "protein",
+        "serving_size": 2,
+        "unit": "oz",
+        "serving_points": 1
+    },
+
     # Fats category
     
     "Almonds": {
@@ -1314,6 +1764,303 @@ food_database = {
         #"fat": 0,
         "category": "fats",
         "serving_size": .333,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+    "Cashews": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 3,
+        "unit": "nuts",
+        "serving_points": 1
+    },
+
+    "Cream, light": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": .5,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+    "Cream Cheese": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 1,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+    "Guacamole": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 0.5,
+        "unit": "tbsp",
+        "serving_points": 1
+    },
+
+    "Half and Half": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 1,
+        "unit": "tbsp",
+        "serving_points": 1
+    },
+
+    "Hummus": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 1,
+        "unit": "tbsp",
+        "serving_points": 1
+    },
+
+    "Lard": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": .333,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+    "Macadamia Nuts": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 1,
+        "unit": "nuts",
+        "serving_points": 1
+    },
+
+    "Mayonnaise": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": .333,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+    "Mayonnaise, light": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 1,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+    "Oil - avocado": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": .333,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Oil - canola": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": .333,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Oil - coconut": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": .333,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Oil - olive": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": .333,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Oil - peanut": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": .333,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Oil - sesame": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": .333,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Oil - vegetable": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": .333,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Olives": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 5,
+        "unit": "olives",
+        "serving_points": 1
+    },
+
+     "Peanut Butter": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 0.5,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Peanuts": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 6,
+        "unit": "nuts",
+        "serving_points": 1
+    },
+
+     "Pistachios": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 3,
+        "unit": "nuts",
+        "serving_points": 1
+    },
+
+     "Sunflower Seeds": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 0.25,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Sour Cream": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 1,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Tahini": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 0.33,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Tartar Sauce": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 0.5,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Veg. Shortening": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": .333,
+        "unit": "tsp",
+        "serving_points": 1
+    },
+
+     "Walnuts, chopped": {
+        #"calories": 0,
+        #"protein": 0,
+        #"carbs": 0,
+        #"fat": 0,
+        "category": "fats",
+        "serving_size": 0.5,
         "unit": "tsp",
         "serving_points": 1
     },
